@@ -1,6 +1,4 @@
-import {
-  AppRegistry,
-} from 'react-native';
+import { AppRegistry } from 'react-native';
 import { TabNavigator } from 'react-navigation';
 import Upcoming from './Upcoming';
 import Search from './Search';
